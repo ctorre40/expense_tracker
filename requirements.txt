@@ -1,0 +1,8 @@
+psycopg==3.2.13
+psycopg-binary==3.2.13
+PySide6==6.10.3
+PySide6_Addons==6.10.3
+PySide6_Essentials==6.10.3
+python-dotenv==1.2.1
+shiboken6==6.10.3
+typing_extensions==4.16.0
